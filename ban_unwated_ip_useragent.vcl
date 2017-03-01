@@ -2,9 +2,8 @@
 
 acl unwanted {
                     # Declare Unwanted list
-        	    # Here you can add ip to block access
-                    # Ofcourse public IP
-		           	"188.223.122.80";
+        	                "111.111.11.11 ";
+		           	"222.222.22.22";
 			}
 
 
